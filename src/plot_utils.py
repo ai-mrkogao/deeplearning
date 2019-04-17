@@ -78,6 +78,7 @@ class Plot_Manifold_Learning_Result():
 
         # borrowed from https://github.com/fastforwardlabs/vae-tf/blob/master/plot.py
         z = np.rollaxis(np.mgrid[self.z_range:-self.z_range:self.n_img_y * 1j, self.z_range:-self.z_range:self.n_img_x * 1j], 0, 3)
+        # z = np.rollaxis(np.mgrid[4:1:self.n_img_y * 1j, 4:1:self.n_img_x * 1j], 0, 3)
         # z1 = np.rollaxis(np.mgrid[1:-1:self.n_img_y * 1j, 1:-1:self.n_img_x * 1j], 0, 3)
         # z = z1**2
         # z[z1<0] *= -1
@@ -85,6 +86,8 @@ class Plot_Manifold_Learning_Result():
         # z = z*self.z_range
 
         self.z = z.reshape([-1, 2])
+        print("z shape:{}".format(self.z.shape))
+        print("self.z {}".format(self.z[:10]))
 
     def save_images(self, images, name='result.jpg'):
         images = images.reshape(self.n_img_x*self.n_img_y, self.img_h, self.img_w)
