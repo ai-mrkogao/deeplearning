@@ -1,2 +1,2 @@
-model_checkpoint_path: "vae.model"
-all_model_checkpoint_paths: "vae.model"
+model_checkpoint_path: "vae.model-1"
+all_model_checkpoint_paths: "vae.model-1"
