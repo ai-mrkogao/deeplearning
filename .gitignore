@@ -1,2 +1,5 @@
 *.pkl
 *.gz
+model/*
+results/*
+
