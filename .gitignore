@@ -2,4 +2,4 @@
 *.gz
 model/*
 results/*
-
+data/*
