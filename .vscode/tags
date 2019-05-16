@@ -1,0 +1,64 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DATA_DIRECTORY	../src/mnist_data.py	/^DATA_DIRECTORY = "data"$/;"	kind:variable	line:18
+IMAGE_SIZE	../src/mnist_data.py	/^IMAGE_SIZE = 28$/;"	kind:variable	line:21
+NUM_CHANNELS	../src/mnist_data.py	/^NUM_CHANNELS = 1$/;"	kind:variable	line:22
+NUM_LABELS	../src/mnist_data.py	/^NUM_LABELS = 10$/;"	kind:variable	line:24
+PIXEL_DEPTH	../src/mnist_data.py	/^PIXEL_DEPTH = 255$/;"	kind:variable	line:23
+Plot_Manifold_Learning_Result	../src/plot_utils.py	/^class Plot_Manifold_Learning_Result():$/;"	kind:class	line:47
+Plot_Reproduce_Performance	../src/plot_utils.py	/^class Plot_Reproduce_Performance():$/;"	kind:class	line:6
+SOURCE_URL	../src/mnist_data.py	/^SOURCE_URL = 'http:\/\/yann.lecun.com\/exdb\/mnist\/'$/;"	kind:variable	line:17
+VALIDATION_SIZE	../src/mnist_data.py	/^VALIDATION_SIZE = 5000  # Size of the validation set.$/;"	kind:variable	line:25
+__init__	../src/plot_utils.py	/^    def __init__(self, DIR, n_img_x=20, n_img_y=20, img_w=28, img_h=28, resize_factor=1.0, z_range=4):$/;"	kind:member	line:48
+__init__	../src/plot_utils.py	/^    def __init__(self, DIR, n_img_x=8, n_img_y=8, img_w=28, img_h=28, resize_factor=1.0):$/;"	kind:member	line:7
+__init__	../src/vae.py	/^    def __init__(self,session,learning_rate,dense_layers,dense_funcs,dim_z,dim_out):$/;"	kind:member	line:101
+__init__	../src/vae.py	/^    def __init__(self,session,learning_rate,dense_layers,dense_funcs,dim_z,dim_out):$/;"	kind:member	line:391
+_build_network	../src/vae.py	/^    def _build_network(self):$/;"	kind:member	line:116
+_build_network	../src/vae.py	/^    def _build_network(self):$/;"	kind:member	line:406
+_merge	../src/plot_utils.py	/^    def _merge(self, images, size):$/;"	kind:member	line:29
+_merge	../src/plot_utils.py	/^    def _merge(self, images, size):$/;"	kind:member	line:96
+_set_latent_vectors	../src/plot_utils.py	/^    def _set_latent_vectors(self):$/;"	kind:member	line:71
+cnnFeature.py	../src/cnnFeature.py	1;"	kind:file	line:1
+decode_display	../src/vae.py	/^def decode_display(np_data,max_seq_len,df_stock,df_data):$/;"	kind:function	line:583
+decode_npdata	../src/vae.py	/^def decode_npdata(np_data,max_seq_len,df_stock,df_data):$/;"	kind:function	line:351
+decode_npdata	../src/vae.py	/^def decode_npdata(np_data,max_seq_len,df_stock,df_data):$/;"	kind:function	line:61
+decoded_images	../src/vae.py	/^def decoded_images(encoder_input,df_data,dfstock):$/;"	kind:function	line:604
+decoder	../src/vae.py	/^    def decoder(self,z, dense_layers,dense_func, keep_prob, reuse=False):$/;"	kind:member	line:237
+decoder	../src/vae.py	/^    def decoder(self,z, dense_layers,dense_func, keep_prob, reuse=False):$/;"	kind:member	line:527
+discrete_cmap	../src/plot_utils.py	/^def discrete_cmap(N, base_cmap=None):$/;"	kind:function	line:127
+discrete_cmap	../src/vae.py	/^def discrete_cmap(N, base_cmap=None):$/;"	kind:function	line:283
+discrete_cmap	../src/vae.py	/^def discrete_cmap(N, base_cmap=None):$/;"	kind:function	line:573
+display_latent_data	../src/vae.py	/^def display_latent_data(learning_rate,dense_layers,dense_funcs,dim_z,dim_out,encoder_input,df_data,nb_classes,z_range):$/;"	kind:function	line:643
+encoder	../src/vae.py	/^    def encoder(self,x, dense_layers,dense_func,keep_prob):$/;"	kind:member	line:200
+encoder	../src/vae.py	/^    def encoder(self,x, dense_layers,dense_func,keep_prob):$/;"	kind:member	line:490
+expend_training_data	../src/mnist_data.py	/^def expend_training_data(images, labels):$/;"	kind:function	line:73
+extract_data	../src/mnist_data.py	/^def extract_data(filename, num_images, norm_shift=False, norm_scale=True):$/;"	kind:function	line:41
+extract_labels	../src/mnist_data.py	/^def extract_labels(filename, num_images):$/;"	kind:function	line:59
+generate_latent_data	../src/vae.py	/^def generate_latent_data(learning_rate,dense_layers,dense_funcs,dim_z,dim_out,encoder_input):$/;"	kind:function	line:670
+generate_stock_data	../src/vae.py	/^def generate_stock_data(learning_rate,dense_layers,dense_funcs,dim_z,dim_out):$/;"	kind:function	line:687
+load	../src/vae.py	/^    def load(self):$/;"	kind:member	line:178
+load	../src/vae.py	/^    def load(self):$/;"	kind:member	line:468
+maybe_download	../src/mnist_data.py	/^def maybe_download(filename):$/;"	kind:function	line:28
+mnist_data.py	../src/mnist_data.py	1;"	kind:file	line:1
+plot_utils.py	../src/plot_utils.py	1;"	kind:file	line:1
+prepare_MNIST_data	../src/mnist_data.py	/^def prepare_MNIST_data(use_norm_shift=False, use_norm_scale=True, use_data_augmentation=False):$/;"	kind:function	line:114
+readData	../src/vae.py	/^def readData(filelists):$/;"	kind:function	line:18
+readData	../src/vae.py	/^def readData(filelists):$/;"	kind:function	line:308
+readStock	../src/vae.py	/^def readStock(filelists):$/;"	kind:function	line:337
+readStock	../src/vae.py	/^def readStock(filelists):$/;"	kind:function	line:47
+sample_decoder	../src/vae.py	/^    def sample_decoder(self,z, dim_img):$/;"	kind:member	line:194
+sample_decoder	../src/vae.py	/^    def sample_decoder(self,z, dim_img):$/;"	kind:member	line:484
+save	../src/vae.py	/^    def save(self, step):$/;"	kind:member	line:166
+save	../src/vae.py	/^    def save(self, step):$/;"	kind:member	line:456
+save_images	../src/plot_utils.py	/^    def save_images(self, images, name='result.jpg'):$/;"	kind:member	line:25
+save_images	../src/plot_utils.py	/^    def save_images(self, images, name='result.jpg'):$/;"	kind:member	line:92
+save_scattered_image	../src/plot_utils.py	/^    def save_scattered_image(self, z, id, name='scattered_image.jpg'):$/;"	kind:member	line:115
+save_scattered_image	../src/vae.py	/^def save_scattered_image(z, id, name='scattered_image.jpg'):$/;"	kind:function	line:270
+save_scattered_image	../src/vae.py	/^def save_scattered_image(z, id, nb_classes,z_range,name='scattered_image.jpg'):$/;"	kind:function	line:560
+vae	../src/vae.py	/^class vae:$/;"	kind:class	line:100
+vae	../src/vae.py	/^class vae:$/;"	kind:class	line:390
+vae.py	../src/vae.py	1;"	kind:file	line:1
