@@ -1,0 +1,6 @@
+*.pkl
+*.gz
+model/*
+results/*
+data/*
+CNNModel/*
