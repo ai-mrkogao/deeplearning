@@ -7,13 +7,13 @@
 - Today Dow index is in the same status as 95% anomaly , that means Dow and other major index is still in dangerous level
 
 ### 2019-09-27 DJI
-![](../../pictures/stock_analysis/20190927_dji.png)  
+![](./pictures/stock_analysis/20190927_dji.png)  
 
 ### 2019-09-27 SPY
 - DJI  
-![](../../pictures/stock_analysis/20190927_dji_trade.png)  
+![](./pictures/stock_analysis/20190927_dji_trade.png)  
 - IXIC  
-![](../../pictures/stock_analysis/20190927_ixic_trade.png)  
+![](./pictures/stock_analysis/20190927_ixic_trade.png)  
 
 - Today DJI,IXIC generates the __Sell signal__, starts the short position slowly
 
