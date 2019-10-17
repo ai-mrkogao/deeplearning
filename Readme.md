@@ -1,13 +1,15 @@
 
 # Economic Review with Reinforcement learning ,Variation Autoencoder and Machine Learning
+## recent AI trading update  
+[AI trading history](https://ai-mrkogao.github.io/)  
+
+
 ## 2019-09-27 All Dow,SPY,IXIC In Sell Signal
 
 ## This is deep learning analysis of Dow index about anomaly detection and reinforcement_learning for how to decide the trading
 
 - Today Dow index is in the same status as 95% anomaly , that means Dow and other major index is still in dangerous level
 
-### recent AI trading update  
-[AI trading history](https://ai-mrkogao.github.io/)  
 
 ### 2019-09-27 DJI
 ![](./pictures/stock_analysis/20190927_dji.png)  
