@@ -1,4 +1,8 @@
 
+# Contact
+ihome911@gmail.com  
+
+
 # Reinforcement Learning for Market  
 ## AI Investment Platform Architecture  
 ![](./pictures/stock_analysis/AI_archi.png)  
