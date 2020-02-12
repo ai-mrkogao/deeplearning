@@ -2,6 +2,8 @@
 # Contact
 ihome911@gmail.com  
 
+# Youtube
+[Anomaly Detection](https://www.youtube.com/watch?v=2d6marS1ZJA)  
 
 # Reinforcement Learning for Market  
 ## AI Investment Platform Architecture  
