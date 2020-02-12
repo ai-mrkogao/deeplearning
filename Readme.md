@@ -1,4 +1,20 @@
 
+# Reinforcement Learning for Market  
+## AI Investment Platform Architecture  
+![](./pictures/stock_analysis/AI_archi.png)  
+## Market Risk Analysis  
+![](./pictures/stock_analysis/AI_archi01.png)  
+## Market Trend Analysis  
+![](./pictures/stock_analysis/AI_archi02.png)  
+## Market Sentiment  
+![](./pictures/stock_analysis/AI_archi03.png)  
+## Market Strategy 
+![](./pictures/stock_analysis/AI_archi04.png)  
+
+
+
+
+
 # Economic Review with Reinforcement learning ,Variation Autoencoder and Machine Learning
 ## recent AI trading update  
 [AI trading history](https://ai-mrkogao.github.io/)  
