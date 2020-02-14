@@ -3,6 +3,7 @@
 ihome911@gmail.com  
 
 # Youtube
+[AI platform](https://www.youtube.com/watch?v=dN75zuaBoQU)
 [Anomaly Detection](https://www.youtube.com/watch?v=2d6marS1ZJA)  
 
 # Reinforcement Learning for Market  
